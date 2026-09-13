@@ -243,7 +243,7 @@ Exit MiniCom with **`Ctrl-A`** **then** **`X`**, then `Y`.
 
 ## 9. Result
 
-<p align="center">\n  <img src="screenshots/minicom_output.png" alt="MiniCom output" width="850">\n</p>
+<p align="center">  <img src="screenshots/minicom_output.png" alt="MiniCom output" width="850"> </p>
 
 *MiniCom receiving the periodic message over USB CDC at 115200 baud, while simultaneously echoing characters typed from the computer back to the screen.*
 
